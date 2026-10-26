@@ -129,9 +129,14 @@ set DATABASE_URL=mssql+pyodbc://localhost\SQLEXPRESS/MzansiRetail?driver=ODBC+Dr
 └── data/README.md          # how the data is made
 ```
 
-## Note
+## Limitations and what I want to look at next
 
-This project comes from the study guide I wrote for myself, based on real senior data analyst job ads. I first built it in 2026 on a laptop that later broke, so I rebuilt it and put it here. The data is made up, so the numbers are a little different from my first version.
+- **The data is simulated.** It is made to look like a real South African retailer, but it is not real. I would much prefer to use real business data. Real customers behave in messier ways, so the model would probably score lower than AUC 0.83.
+- **The model partly answers its own question** (see the weakness above). Version 2 should use this year's shopping to predict next year's spending.
+- **Only three features.** With real data I would add things like how recently a customer shopped, the channel they use (in-store, online, app), and their loyalty tier.
+- **Fairness.** Before using a model like this on real people, I would check that it does not treat some groups (for example provinces or genders) unfairly, and that customers agreed to their data being used this way (POPIA, the Protection of Personal Information Act).
+- **Does calling actually help?** The model shows who to call, not whether a call changes what they spend. A small test (call half the list, not the other half, and compare) would answer that.
+- **Keep checking the model.** Customer behaviour changes, so I would re-test the model every few months and retrain it if it gets worse.
 
 **Tools:** Python · pandas · scikit-learn · SQLAlchemy · SQLite / SQL Server · Power BI · matplotlib
 
