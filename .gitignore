@@ -1,0 +1,5 @@
+# The data is made again by src/generate_data.py, so it is not stored here
+data/*.csv
+data/*.db
+__pycache__/
+.venv/

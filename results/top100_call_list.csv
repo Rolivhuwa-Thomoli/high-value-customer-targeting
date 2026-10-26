@@ -1,0 +1,101 @@
+customer_id,score,first_name,last_name,province,loyalty_tier
+1411,0.9998,Hennie,Van der Merwe,Limpopo,Silver
+434,0.9997,Maryke,Coetzee,Limpopo,Bronze
+1275,0.9997,Thandi,Botha,Gauteng,Silver
+1395,0.999,Karabo,Mthembu,Limpopo,Silver
+1336,0.9986,Ayesha,Venter,Mpumalanga,Bronze
+1087,0.9986,Maryke,Sithole,Limpopo,Bronze
+544,0.9983,Rinae,Venter,Eastern Cape,Bronze
+1910,0.9977,Pieter,Govender,Mpumalanga,Gold
+1664,0.9974,Anika,Naidoo,Gauteng,Silver
+682,0.9971,Bongani,Tshabalala,Gauteng,Gold
+606,0.9969,Lunga,Erasmus,Limpopo,Bronze
+556,0.9964,Hennie,Erasmus,Gauteng,Silver
+308,0.9958,Rinae,Khumalo,KwaZulu-Natal,Bronze
+979,0.995,Priya,Jacobs,Western Cape,Silver
+131,0.994,Naledi,Naidoo,Gauteng,Bronze
+158,0.9929,Naledi,Tshabalala,KwaZulu-Natal,Bronze
+982,0.9927,Rolivhuwa,Mabaso,Limpopo,Bronze
+1561,0.9919,Nomsa,Coetzee,Eastern Cape,Silver
+1500,0.991,Bongani,Radebe,KwaZulu-Natal,Gold
+1612,0.9896,Sanjay,Erasmus,Limpopo,Bronze
+1074,0.9887,Kagiso,Naidoo,Free State,Silver
+753,0.9875,Mpho,Naidoo,Gauteng,Gold
+503,0.9873,Anika,Moodley,Free State,Platinum
+566,0.9871,Zanele,Radebe,KwaZulu-Natal,Bronze
+1265,0.9867,Zanele,Radebe,Western Cape,Bronze
+1990,0.9851,Andile,Mthembu,Gauteng,Platinum
+208,0.9846,Fatima,Jacobs,KwaZulu-Natal,Bronze
+242,0.9844,Refilwe,Jacobs,Limpopo,Bronze
+961,0.9843,Tshilidzi,Zulu,Western Cape,Gold
+463,0.9836,Maryke,Nkosi,Free State,Bronze
+1144,0.9822,Elna,Nkosi,Limpopo,Bronze
+875,0.9813,Sifiso,Petersen,KwaZulu-Natal,Bronze
+521,0.9789,Andile,Radebe,Mpumalanga,Bronze
+893,0.9757,Maryke,Pretorius,Gauteng,Silver
+1551,0.9711,Vusi,Tshabalala,Gauteng,Gold
+1930,0.9675,Johan,Mahlangu,Western Cape,Gold
+35,0.9647,Dikeledi,Meyer,Western Cape,Bronze
+1513,0.9637,Rinae,Khumalo,KwaZulu-Natal,Platinum
+185,0.9603,Andile,Ngcobo,Limpopo,Silver
+143,0.9602,Mpho,Govender,Free State,Gold
+296,0.9599,Maryke,Petersen,Free State,Bronze
+828,0.9584,Naledi,Mokoena,Gauteng,Bronze
+319,0.9554,Pieter,Van der Merwe,Gauteng,Silver
+1451,0.9545,Vusi,Meyer,Limpopo,Silver
+1326,0.9525,Tshilidzi,Ndlovu,Mpumalanga,Gold
+870,0.949,Andile,Erasmus,Gauteng,Bronze
+788,0.9479,Kagiso,Sithole,Gauteng,Silver
+1245,0.9468,Priya,Fourie,Gauteng,Bronze
+1156,0.9443,Lerato,Mahlangu,Gauteng,Bronze
+1237,0.9362,Nomsa,Radebe,Gauteng,Platinum
+665,0.9359,Fatima,Naidoo,Gauteng,Silver
+738,0.9347,Naledi,Baloyi,Gauteng,Silver
+471,0.9333,Nomsa,Mthembu,Western Cape,Bronze
+650,0.9323,Pieter,Patel,Gauteng,Gold
+1183,0.93,Elna,Jacobs,Gauteng,Silver
+87,0.929,Maryke,Fourie,KwaZulu-Natal,Bronze
+732,0.9238,Bongani,Pillay,Gauteng,Bronze
+1295,0.9224,Karabo,Baloyi,Gauteng,Silver
+1871,0.9213,Kagiso,Khumalo,Gauteng,Bronze
+1753,0.919,Vusi,Fourie,Mpumalanga,Silver
+1429,0.9185,Tshilidzi,Moodley,Limpopo,Platinum
+1720,0.9135,Anika,Pretorius,Limpopo,Silver
+1366,0.9128,Priya,Mokoena,Western Cape,Bronze
+1150,0.9125,Hennie,Mabaso,Mpumalanga,Bronze
+1729,0.9111,Hennie,Radebe,Gauteng,Silver
+668,0.9108,Rinae,Patel,Eastern Cape,Bronze
+1804,0.9087,Anika,Nkosi,KwaZulu-Natal,Bronze
+1887,0.9084,Zanele,Coetzee,Gauteng,Platinum
+379,0.9052,Refilwe,Mabaso,Gauteng,Bronze
+199,0.9034,Rolivhuwa,Radebe,Gauteng,Bronze
+1719,0.9024,Nomsa,Pillay,KwaZulu-Natal,Platinum
+1940,0.9009,Zanele,Meyer,Gauteng,Bronze
+1654,0.9007,Karabo,Mahlangu,Gauteng,Bronze
+1383,0.8987,Sanjay,Van der Merwe,Western Cape,Platinum
+96,0.897,Johan,Baloyi,KwaZulu-Natal,Bronze
+1616,0.8967,Andile,Baloyi,Gauteng,Silver
+345,0.8942,Fatima,Erasmus,Limpopo,Silver
+1697,0.8935,Mpho,Erasmus,Gauteng,Bronze
+837,0.8926,Anika,Sithole,KwaZulu-Natal,Silver
+1255,0.8919,Elna,Jacobs,Gauteng,Bronze
+1334,0.8887,Dikeledi,Pretorius,Eastern Cape,Bronze
+1272,0.8766,Thandi,Mahlangu,Gauteng,Silver
+324,0.8758,Anika,Pillay,Western Cape,Bronze
+530,0.8585,Maryke,Coetzee,Gauteng,Silver
+483,0.8568,Lunga,Radebe,Western Cape,Bronze
+25,0.8508,Karabo,Van der Merwe,Limpopo,Silver
+1124,0.8438,Johan,Tshabalala,Gauteng,Silver
+1951,0.8437,Mpho,Mahlangu,Eastern Cape,Bronze
+1526,0.8425,Tebogo,Zulu,Gauteng,Bronze
+1880,0.8424,Karabo,Ngcobo,Western Cape,Bronze
+1600,0.8383,Priya,Coetzee,Gauteng,Bronze
+1439,0.8366,Ayesha,Radebe,Free State,Bronze
+1064,0.836,Fatima,Ngcobo,KwaZulu-Natal,Gold
+1528,0.8356,Rolivhuwa,Kekana,Western Cape,Bronze
+1006,0.8262,Zanele,Botha,Gauteng,Gold
+1304,0.8259,Dikeledi,Sithole,Gauteng,Platinum
+598,0.8258,Rolivhuwa,Pretorius,KwaZulu-Natal,Bronze
+1548,0.8242,Tshilidzi,Ndlovu,KwaZulu-Natal,Platinum
+355,0.8236,Nomsa,Jacobs,Western Cape,Bronze
+1925,0.8139,Thandi,Radebe,Gauteng,Bronze

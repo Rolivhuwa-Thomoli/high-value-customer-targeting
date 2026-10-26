@@ -1,0 +1,10 @@
+AUC on test customers: 0.830
+Coefficients (scaled features):
+  early_orders: +0.12
+  early_spend: +1.10
+  early_categories: +0.54
+Confusion matrix at 0.5 (rows = actual 0/1, columns = predicted 0/1):
+  [[323, 15], [68, 44]]
+Top 25 test customers by score: 88% are high-value
+Random pick: 25% are high-value
+Lift: 3.5x
